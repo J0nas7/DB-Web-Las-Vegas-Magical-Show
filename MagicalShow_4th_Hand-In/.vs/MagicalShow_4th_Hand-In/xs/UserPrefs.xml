@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EB2120E4-6416-4449-84AC-1783BAED9A62}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ShippersCRUD/ReadUpdate.aspx">
+    <Files>
+      <File FileName="MagicalShow_4th_Hand-In/Default.aspx" Line="12" Column="23" />
+      <File FileName="MagicalShow_4th_Hand-In/Default.aspx.cs" Line="33" Column="48" />
+      <File FileName="../../ShippersCRUD/ReadUpdate.aspx.cs" Line="29" Column="38" />
+      <File FileName="../../ShippersCRUD/ReadUpdate.aspx" Line="16" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicalShow_4th_Hand-In" expanded="True">
+            <Node name="MagicalShow_4th_Hand-In" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MagicalShow__4th__Hand-In PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
