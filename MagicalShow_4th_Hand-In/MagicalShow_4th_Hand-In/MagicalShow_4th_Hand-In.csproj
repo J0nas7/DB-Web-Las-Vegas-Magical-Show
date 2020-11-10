@@ -85,6 +85,9 @@
     <Content Include="Web.config" />
     <Content Include="Default.aspx" />
     <Content Include="packages.config" />
+    <Content Include="CreateMagician.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Overview.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -95,6 +98,26 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateMagician.aspx.cs">
+      <DependentUpon>CreateMagician.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateMagician.aspx.designer.cs">
+      <DependentUpon>CreateMagician.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseController.cs" />
+    <Compile Include="CeasarEncryption.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Overview.aspx.cs">
+      <DependentUpon>Overview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Overview.aspx.designer.cs">
+      <DependentUpon>Overview.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -11,12 +11,10 @@
 namespace MagicalShow_4th_HandIn {
 	
 	
-	public partial class Default {
+	public partial class Overview {
 		
 		protected System.Web.UI.HtmlControls.HtmlForm form1;
 		
-		protected System.Web.UI.WebControls.GridView GridViewShops;
-		
-		protected System.Web.UI.WebControls.Button BackendArea;
+		protected System.Web.UI.WebControls.Button buttonNewProfile;
 	}
 }

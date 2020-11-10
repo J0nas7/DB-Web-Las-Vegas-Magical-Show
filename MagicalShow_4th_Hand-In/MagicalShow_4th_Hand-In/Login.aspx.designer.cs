@@ -11,12 +11,20 @@
 namespace MagicalShow_4th_HandIn {
 	
 	
-	public partial class Default {
+	public partial class Login {
 		
 		protected System.Web.UI.HtmlControls.HtmlForm form1;
 		
-		protected System.Web.UI.WebControls.GridView GridViewShops;
+		protected System.Web.UI.WebControls.TextBox TextBoxName;
 		
-		protected System.Web.UI.WebControls.Button BackendArea;
+		protected System.Web.UI.WebControls.Label LabelName;
+		
+		protected System.Web.UI.WebControls.TextBox TextBoxPassword;
+		
+		protected System.Web.UI.WebControls.Label LabelPassword;
+		
+		protected System.Web.UI.WebControls.Button buttonLogin;
+		
+		protected System.Web.UI.WebControls.Label LabelLoginMsg;
 	}
 }
