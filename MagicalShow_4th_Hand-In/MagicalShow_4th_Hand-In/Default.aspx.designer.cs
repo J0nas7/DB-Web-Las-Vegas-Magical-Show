@@ -13,9 +13,17 @@ namespace MagicalShow_4th_HandIn {
 	
 	public partial class Default {
 		
-		protected System.Web.UI.HtmlControls.HtmlForm form1;
+		protected System.Web.UI.WebControls.Label TotalDuration;
 		
-		protected System.Web.UI.WebControls.GridView GridViewShops;
+		protected System.Web.UI.WebControls.DataList dtlist;
+		
+		protected System.Web.UI.WebControls.Image Image1;
+		
+		protected System.Web.UI.WebControls.Label Label1;
+		
+		protected System.Web.UI.WebControls.Label lbl;
+		
+		protected System.Web.UI.HtmlControls.HtmlForm form1;
 		
 		protected System.Web.UI.WebControls.Button BackendArea;
 	}

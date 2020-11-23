@@ -1,32 +1,31 @@
 ﻿<Properties StartupConfiguration="{EB2120E4-6416-4449-84AC-1783BAED9A62}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MagicalShow_4th_Hand-In/CreateMagician.aspx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicalShow_4th_Hand-In/Overview.aspx.cs">
     <Files>
-      <File FileName="MagicalShow_4th_Hand-In/Default.aspx" Line="16" Column="40" />
-      <File FileName="MagicalShow_4th_Hand-In/Default.aspx.cs" Line="12" Column="37" />
-      <File FileName="../../ShippersCRUD/ReadUpdate.aspx.cs" />
-      <File FileName="../../ShippersCRUD/ReadUpdate.aspx" />
-      <File FileName="../../MagicalShow_3rd_Hand-In/MagicalShow_3rd_Hand-In/CreateMagician.aspx" Line="9" Column="7" />
-      <File FileName="MagicalShow_4th_Hand-In/CreateMagician.aspx" Line="27" Column="1" />
-      <File FileName="MagicalShow_4th_Hand-In/CreateMagician.aspx.cs" Line="12" Column="52" />
-      <File FileName="MagicalShow_4th_Hand-In/DatabaseController.cs" Line="53" Column="26" />
-      <File FileName="MagicalShow_4th_Hand-In/template.css" Line="59" Column="20" />
+      <File FileName="MagicalShow_4th_Hand-In/CreateMagician.aspx" Line="14" Column="54" />
+      <File FileName="MagicalShow_4th_Hand-In/CreateMagician.aspx.cs" Line="100" Column="14" />
+      <File FileName="MagicalShow_4th_Hand-In/template.css" Line="47" Column="2" />
       <File FileName="MagicalShow_4th_Hand-In/Login.aspx" Line="15" Column="19" />
-      <File FileName="MagicalShow_4th_Hand-In/Login.aspx.cs" Line="21" Column="16" />
-      <File FileName="../../MagicalShow_3rd_Hand-In/MagicalShow_3rd_Hand-In/Overview.aspx.cs" Line="11" Column="9" />
-      <File FileName="MagicalShow_4th_Hand-In/Overview.aspx" Line="13" Column="13" />
-      <File FileName="MagicalShow_4th_Hand-In/Overview.aspx.cs" Line="10" Column="13" />
+      <File FileName="MagicalShow_4th_Hand-In/Login.aspx.cs" Line="20" Column="1" />
+      <File FileName="MagicalShow_4th_Hand-In/Overview.aspx" Line="17" Column="80" />
+      <File FileName="MagicalShow_4th_Hand-In/Overview.aspx.cs" Line="85" Column="65" />
+      <File FileName="MagicalShow_4th_Hand-In/Act.aspx" Line="45" Column="12" />
+      <File FileName="MagicalShow_4th_Hand-In/Act.aspx.cs" Line="12" Column="8" />
+      <File FileName="MagicalShow_4th_Hand-In/DatabaseController.cs" Line="70" Column="66" />
+      <File FileName="MagicalShow_4th_Hand-In/Default.aspx" Line="20" Column="24" />
+      <File FileName="MagicalShow_4th_Hand-In/Default.aspx.cs" Line="27" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MagicalShow_4th_Hand-In" expanded="True">
             <Node name="MagicalShow_4th_Hand-In" expanded="True">
-              <Node name="CreateMagician.aspx" expanded="True">
-                <Node name="CreateMagician.aspx.cs" selected="True" />
-              </Node>
-              <Node name="Global.asax" expanded="True" />
+              <Node name="Act.aspx" expanded="True" />
+              <Node name="CreateMagician.aspx" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
               <Node name="Login.aspx" expanded="True" />
-              <Node name="Overview.aspx" expanded="True" />
+              <Node name="Overview.aspx" expanded="True">
+                <Node name="Overview.aspx.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

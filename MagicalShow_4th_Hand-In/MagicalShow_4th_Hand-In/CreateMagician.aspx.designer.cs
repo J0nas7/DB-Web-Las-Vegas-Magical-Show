@@ -35,6 +35,8 @@ namespace MagicalShow_4th_HandIn {
 		
 		protected System.Web.UI.WebControls.Button ButtonAdd;
 		
+		protected System.Web.UI.WebControls.Button ButtonEdit;
+		
 		protected System.Web.UI.WebControls.Label LabelError;
 	}
 }

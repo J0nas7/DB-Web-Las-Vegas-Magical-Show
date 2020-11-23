@@ -48,6 +48,11 @@ namespace MagicalShow_4th_HandIn
             return result;
         }
 
+        public int insertedId()
+        {
+            return Convert.ToInt32(query.LastInsertedId);
+        }
+
         public MySqlDataReader dbRead(string SQLsentence)
         {
             query = null;
@@ -55,6 +60,15 @@ namespace MagicalShow_4th_HandIn
             query.CommandText = SQLsentence;
             rdr = query.ExecuteReader();
             return rdr;
+        }
+
+        public MySqlDataAdapter dbAdapt(string SQLsentence)
+        {
+            query = null;
+            query = DBconn.CreateCommand();
+            query.CommandText = SQLsentence;
+            MySqlDataAdapter adapt = new MySqlDataAdapter(query);
+            return adapt;
         }
 
         public void closeReader()

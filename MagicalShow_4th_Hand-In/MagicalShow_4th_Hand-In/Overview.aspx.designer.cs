@@ -15,6 +15,26 @@ namespace MagicalShow_4th_HandIn {
 		
 		protected System.Web.UI.HtmlControls.HtmlForm form1;
 		
+		protected System.Web.UI.WebControls.Button buttonNewAct;
+		
 		protected System.Web.UI.WebControls.Button buttonNewProfile;
+		
+		protected System.Web.UI.WebControls.Button logOut;
+		
+		protected System.Web.UI.WebControls.ListBox Profiles;
+		
+		protected System.Web.UI.WebControls.ListBox Acts;
+		
+		protected System.Web.UI.WebControls.Button buttonEditProfile;
+		
+		protected System.Web.UI.WebControls.Button buttonDeleteProfile;
+		
+		protected System.Web.UI.WebControls.Button buttonEditAct;
+		
+		protected System.Web.UI.WebControls.Button buttonDeleteAct;
+		
+		protected System.Web.UI.WebControls.Button buttonMoveUp;
+		
+		protected System.Web.UI.WebControls.Button buttonMoveDown;
 	}
 }

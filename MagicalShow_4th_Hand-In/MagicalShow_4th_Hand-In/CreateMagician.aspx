@@ -33,6 +33,7 @@
             <br />
             <br />
             <asp:Button ID="ButtonAdd" runat="server" OnClick="ButtonAdd_Click" Text="Add person and return" />
+            <asp:Button ID="ButtonEdit" runat="server" OnClick="ButtonEdit_Click" Text="Save changes" />
             <br />
             <asp:Label ID="LabelError" runat="server" Text=""></asp:Label>
         </div>
